@@ -6,6 +6,7 @@
 *
 * Name: Hanson Chieu Student ID: 173632233 Date: 04/07/2025
 *
+* Vercel URL: hcweba6.vercel.app
 ********************************************************************************/
 import React from 'react';
 import { Container, Image, Row, Col } from 'react-bootstrap';
